@@ -14,5 +14,8 @@ Some features of Chat application:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Technologies Used :
-In a chat application created using core Java, Java Swing, Java AWT, and socket programming, you would primarily utilize Java for the backend logic. Java Swing and AWT would be used for designing the graphical user interface (GUI) components, such as buttons, text fields, and windows. Socket programming would allow for the establishment of network communication, enabling real-time messaging between users. This combination of technologies provides a solid foundation for building a chat application with a user-friendly interface and efficient communication. 
+In a chat application created using core Java, Java Swing, Java AWT, and socket programming, you would primarily utilize Java for the backend logic. Java Swing and AWT would be used for designing the graphical user interface (GUI) components, such as buttons, text fields, and windows. Socket programming would allow for the establishment of network communication, enabling real-time messaging between users. This combination of technologies provides a solid foundation for building a chat application with a user-friendly interface and efficient communication.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
