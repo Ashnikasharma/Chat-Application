@@ -19,6 +19,7 @@ In a chat application created using core Java, Java Swing, Java AWT, and socket 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Screenshots-
+
 ![Screenshot 2024-02-20 165324](https://github.com/Ashnikasharma/Chat-Application/assets/145584301/5efe1ffb-90bd-47c4-a174-231bc533a5c5)
 
 
